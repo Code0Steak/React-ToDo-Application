@@ -30,18 +30,16 @@ Then enter the URL: [http://localhost](http://localhost:3000/)http://localhost:3
 
 You should be greeted with the below screen.
 
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/052e14cd-2969-4351-aa37-fd0747634fb0)
+Landing page:
+![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/b5c13645-7c57-4bf0-82a8-c1e103a1e665)
 
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/8ad65bd1-930e-49af-8672-5f0894d2406f)
+Create Todo:
+![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/14f6d94e-73ea-4105-83a2-794e7adc903f)
 
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/5f0d50e1-93dd-4fed-9910-97183a062204)
+Added more Items:
+![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/0ed8b324-007b-47a2-8685-654bff1ac891)
 
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/654c655c-bf6c-47b1-8acb-8a8b8e4aa274)
-
-After adding more items:
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/a51c9ce9-fa6f-426f-8d93-4ddfa49a3204)
-
-You can tick-off items as complete:
-![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/71a7fef5-750f-4ef4-8692-db456f06ee6f)
+Tick off the completed task, this also affects the list stored on the server:
+![image](https://github.com/Code0Steak/React-ToDo-Application/assets/55844298/316f9200-d842-40ad-bda6-a221b45d8afe)
 
 
