@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+client/rj-todo-app/node_modules
+client/rj-todo-app/.pnp
+client/rj-todo-app/.pnp.js
+
+# testing
+client/rj-todo-app/coverage
+
+# production
+client/rj-todo-app/build
+
+# misc
+client/rj-todo-app/.DS_Store
+client/rj-todo-app/.env.local
+client/rj-todo-app/.env.development.local
+client/rj-todo-app/.env.test.local
+client/rj-todo-app/.env.production.local
+
+client/rj-todo-app/npm-debug.log*
+client/rj-todo-app/yarn-debug.log*
+client/rj-todo-app/yarn-error.log*
+
+#ignore Golang web-server files
+server/go.sum
